@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[usa:home|Door43 (usa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-usa|d43-usa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-usa/archive/master.zip|d43-usa.zip]]
+
+**Recent Changes**
+{{changes>ns = usa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/usa|Ethnologue data]]
+
